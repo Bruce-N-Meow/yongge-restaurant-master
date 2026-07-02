@@ -1,5 +1,9 @@
 # 勇哥 · 餐饮诊断师（Master Edition）
 
+[**👉 先看可视化展示**](https://yap-driven.com/yongge-restaurant-master-skill.html)
+
+---
+
 你刚刷到一个加盟项目。
 
 业务员说市场反馈很好。选址老师帮你挑了个位置。开业活动已经准备好了。
