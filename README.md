@@ -1,4 +1,4 @@
-# 勇哥 · 餐饮诊断师（Master Edition）
+# 勇哥 · 餐饮诊断师（Master Edition）.skill
 
 [**👉 先看可视化展示**](https://yap-driven.com/yongge-restaurant-master-skill.html)
 
